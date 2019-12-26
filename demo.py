@@ -1,5 +1,4 @@
 print("Hello")
 print("Welcome to Telusko")
 
-
-print("Hello from Navin")
+print("Learning from ur telusko")
